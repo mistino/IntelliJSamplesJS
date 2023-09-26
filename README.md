@@ -1,0 +1,2 @@
+# IntelliJSamplesJS
+java script testing
